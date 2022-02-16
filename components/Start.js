@@ -10,9 +10,8 @@ import {
   Image,
   TouchableOpacity,
 } from 'react-native';
-import { withSafeAreaInsets } from 'react-native-safe-area-context';
-import { withOrientation } from 'react-navigation';
 
+// Custom assets
 const image = require('../assets/bg.png');
 const icon = require('../assets/usericon.png');
 
@@ -104,6 +103,7 @@ export default class Start extends React.Component {
   }
 }
 
+// Style sheet
 const styles = StyleSheet.create({
   container: {
     flex: 1,
