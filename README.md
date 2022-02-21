@@ -15,7 +15,7 @@ Key Features:
 
 - JavaScript and React Native
 - [Expo](https://expo.dev/)
-- Google Firestore Database
+- Google Firestore
 
 ## Live Demo
 
