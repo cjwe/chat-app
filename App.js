@@ -1,13 +1,13 @@
 import React from 'react';
 
-// import React native gesture handler
+// Import React native gesture handler
 import 'react-native-gesture-handler';
 
-// import React Navigation
+// Import navigation
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-// import screens
+// Import screens
 import Chat from './components/Chat';
 import Start from './components/Start';
 
