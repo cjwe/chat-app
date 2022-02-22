@@ -1,7 +1,13 @@
 # Chat App
+<p align="center">
+<img height="250" src="https://i.imgur.com/knjYNs7.png" >
+<img height="250" src="https://i.imgur.com/xszoMgE.png" >
+<img height="250" src="https://i.imgur.com/SIZcXLH.png" >
+</p>
+
 Chat App was built for mobile devices using React Native. The app
 provides users with a chat interface and options to share images and their
-location.
+location. Designed to follow given design specifications and assets. 
 
 Key Features:
 - A page where users can enter their name and choose a background color for the chat screen before joining the chat.
