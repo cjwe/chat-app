@@ -27,5 +27,6 @@ Fork or download this repo.
 
 ## Built With
 - JavaScript and React Native
+- [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 - [Expo](https://expo.dev/)
 - Google Firestore
