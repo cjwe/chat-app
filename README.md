@@ -25,7 +25,7 @@ Fork or download this repo.
 3. To start the app, run `expo start` or `npm start`.
 4. To run the app on a device, install an emulator or expo go on your smartphone.
 
-## Built With
+## 🔨 Built With
 - JavaScript and React Native
 - [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 - [Expo](https://expo.dev/)
